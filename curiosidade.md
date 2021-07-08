@@ -1,6 +1,6 @@
 Urna eletronica com pessoas aleatorias, para quebrar um pouco do gelo.
-Fiquem a vontade para vasculhar o codigo localizado no etapas.json, com pessoas aleatorias, abaixo um dos números para utilizar e testar.
-OBS: Recomendo rodar live server atraves do VS CODE. Rodou legal.
+Fiquem a vontade para vasculhar o codigo localizado no etapas.json, com pessoas desconhecidas, abaixo um dos números para utilizar e testar.
+OBS: Recomendo rodar no live server atraves do VS CODE. Rodou legal.
 
 
 Vereadores
